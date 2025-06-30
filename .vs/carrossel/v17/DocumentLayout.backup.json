@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno_Manha\\source\\repos\\carrossel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|c:\\users\\aluno_manha\\source\\repos\\carrossel\\carrossel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|solutionrelative:carrossel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|c:\\users\\aluno_manha\\source\\repos\\carrossel\\carrossel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|solutionrelative:carrossel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|c:\\users\\aluno_manha\\source\\repos\\carrossel\\carrossel\\ucs_fotos\\uc_foto1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|solutionrelative:carrossel\\ucs_fotos\\uc_foto1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|c:\\users\\aluno_manha\\source\\repos\\carrossel\\carrossel\\banners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|solutionrelative:carrossel\\banners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|c:\\users\\aluno_manha\\source\\repos\\carrossel\\carrossel\\ucs_fotos\\uc_foto4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|solutionrelative:carrossel\\ucs_fotos\\uc_foto4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|c:\\users\\aluno_manha\\source\\repos\\carrossel\\carrossel\\ucs_fotos\\uc_foto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|solutionrelative:carrossel\\ucs_fotos\\uc_foto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|c:\\users\\aluno_manha\\source\\repos\\carrossel\\carrossel\\ucs_fotos\\uc_foto3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|solutionrelative:carrossel\\ucs_fotos\\uc_foto3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno_Manha\\source\\repos\\carrossel\\carrossel\\Form1.cs",
+              "RelativeDocumentMoniker": "carrossel\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno_Manha\\source\\repos\\carrossel\\carrossel\\Form1.cs",
+              "RelativeToolTip": "carrossel\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:04:01.132Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno_Manha\\source\\repos\\carrossel\\carrossel\\Form1.cs",
+              "RelativeDocumentMoniker": "carrossel\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno_Manha\\source\\repos\\carrossel\\carrossel\\Form1.cs [Projeto]",
+              "RelativeToolTip": "carrossel\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:55:44.476Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Banners.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno_Manha\\source\\repos\\carrossel\\carrossel\\Banners.cs",
+              "RelativeDocumentMoniker": "carrossel\\Banners.cs",
+              "ToolTip": "C:\\Users\\Aluno_Manha\\source\\repos\\carrossel\\carrossel\\Banners.cs",
+              "RelativeToolTip": "carrossel\\Banners.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:06:59.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UC_Foto4.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno_Manha\\source\\repos\\carrossel\\carrossel\\UCs_Fotos\\UC_Foto4.cs",
+              "RelativeDocumentMoniker": "carrossel\\UCs_Fotos\\UC_Foto4.cs",
+              "ToolTip": "C:\\Users\\Aluno_Manha\\source\\repos\\carrossel\\carrossel\\UCs_Fotos\\UC_Foto4.cs [Projeto]",
+              "RelativeToolTip": "carrossel\\UCs_Fotos\\UC_Foto4.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:06:44.076Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UC_Foto3.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno_Manha\\source\\repos\\carrossel\\carrossel\\UCs_Fotos\\UC_Foto3.cs",
+              "RelativeDocumentMoniker": "carrossel\\UCs_Fotos\\UC_Foto3.cs",
+              "ToolTip": "C:\\Users\\Aluno_Manha\\source\\repos\\carrossel\\carrossel\\UCs_Fotos\\UC_Foto3.cs [Projeto]",
+              "RelativeToolTip": "carrossel\\UCs_Fotos\\UC_Foto3.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T13:06:34.586Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UC_Foto2.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno_Manha\\source\\repos\\carrossel\\carrossel\\UCs_Fotos\\UC_Foto2.cs",
+              "RelativeDocumentMoniker": "carrossel\\UCs_Fotos\\UC_Foto2.cs",
+              "ToolTip": "C:\\Users\\Aluno_Manha\\source\\repos\\carrossel\\carrossel\\UCs_Fotos\\UC_Foto2.cs [Projeto]",
+              "RelativeToolTip": "carrossel\\UCs_Fotos\\UC_Foto2.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:01:13.781Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UC_Foto1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno_Manha\\source\\repos\\carrossel\\carrossel\\UCs_Fotos\\UC_Foto1.cs",
+              "RelativeDocumentMoniker": "carrossel\\UCs_Fotos\\UC_Foto1.cs",
+              "ToolTip": "C:\\Users\\Aluno_Manha\\source\\repos\\carrossel\\carrossel\\UCs_Fotos\\UC_Foto1.cs [Projeto]",
+              "RelativeToolTip": "carrossel\\UCs_Fotos\\UC_Foto1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:00:56.123Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 244,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
