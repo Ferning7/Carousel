@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("carrossel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+880a380570fd7193b2e45c9086632c32b44a7f4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("carrossel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("carrossel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -34,21 +34,23 @@
             // 
             // pictureBox1
             // 
-            pictureBox1.Dock = DockStyle.Fill;
             pictureBox1.Image = Properties.Resources._1;
             pictureBox1.Location = new Point(0, 0);
+            pictureBox1.Margin = new Padding(4, 5, 4, 5);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(679, 215);
+            pictureBox1.Size = new Size(867, 282);
+            pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 0;
             pictureBox1.TabStop = false;
             // 
             // UC_Foto1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             Controls.Add(pictureBox1);
+            Margin = new Padding(4, 5, 4, 5);
             Name = "UC_Foto1";
-            Size = new Size(679, 215);
+            Size = new Size(867, 282);
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
         }

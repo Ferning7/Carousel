@@ -94,7 +94,7 @@ namespace carrossel
 
                 if(i == 0)
                 {
-                    pictureBox1.Image = fotos[i];
+                    //pictureBox1.Image = fotos[i];
                 }
 
                 await SlideTransition(fotos[i], fotos[proximo]);
