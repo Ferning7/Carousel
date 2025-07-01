@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Aluno_Manha\\source\\repos\\Carousel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|C:\\Users\\Aluno_Manha\\source\\repos\\Carousel\\carrossel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|solutionrelative:carrossel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|c:\\users\\aluno_manha\\source\\repos\\carousel\\carrossel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|solutionrelative:carrossel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|C:\\Users\\Aluno_Manha\\source\\repos\\Carousel\\carrossel\\ucs_fotos\\uc_foto1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|solutionrelative:carrossel\\ucs_fotos\\uc_foto1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|C:\\Users\\Aluno_Manha\\source\\repos\\Carousel\\carrossel\\ucs_fotos\\uc_foto3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|solutionrelative:carrossel\\ucs_fotos\\uc_foto3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|C:\\Users\\Aluno_Manha\\source\\repos\\Carousel\\carrossel\\ucs_fotos\\uc_foto1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|solutionrelative:carrossel\\ucs_fotos\\uc_foto1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|c:\\users\\aluno_manha\\source\\repos\\carousel\\carrossel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|solutionrelative:carrossel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|C:\\Users\\Aluno_Manha\\source\\repos\\Carousel\\carrossel\\ucs_fotos\\uc_foto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|solutionrelative:carrossel\\ucs_fotos\\uc_foto2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|c:\\users\\aluno_manha\\source\\repos\\carousel\\carrossel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|solutionrelative:carrossel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E60C9BA9-A2D5-4EB2-B9DD-91B621207751}|carrossel\\carrossel.csproj|c:\\users\\aluno_manha\\source\\repos\\carousel\\carrossel\\banners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,16 +34,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 374,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Aluno_Manha\\source\\repos\\Carousel\\carrossel\\Form1.cs",
               "RelativeDocumentMoniker": "carrossel\\Form1.cs",
-              "ToolTip": "C:\\Users\\Aluno_Manha\\source\\repos\\Carousel\\carrossel\\Form1.cs",
-              "RelativeToolTip": "carrossel\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno_Manha\\source\\repos\\Carousel\\carrossel\\Form1.cs*",
+              "RelativeToolTip": "carrossel\\Form1.cs*",
               "ViewState": "AgIAAFQAAAAAAAAAAAAuwGAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T12:04:01.132Z",
@@ -60,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "UC_Foto3.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Aluno_Manha\\source\\repos\\Carousel\\carrossel\\UCs_Fotos\\UC_Foto3.cs",
               "RelativeDocumentMoniker": "carrossel\\UCs_Fotos\\UC_Foto3.cs",
@@ -72,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "UC_Foto2.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Aluno_Manha\\source\\repos\\Carousel\\carrossel\\UCs_Fotos\\UC_Foto2.cs",
               "RelativeDocumentMoniker": "carrossel\\UCs_Fotos\\UC_Foto2.cs",
@@ -84,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "UC_Foto1.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Aluno_Manha\\source\\repos\\Carousel\\carrossel\\UCs_Fotos\\UC_Foto1.cs",
               "RelativeDocumentMoniker": "carrossel\\UCs_Fotos\\UC_Foto1.cs",
@@ -96,12 +96,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Aluno_Manha\\source\\repos\\Carousel\\carrossel\\Form1.cs",
               "RelativeDocumentMoniker": "carrossel\\Form1.cs",
-              "ToolTip": "C:\\Users\\Aluno_Manha\\source\\repos\\Carousel\\carrossel\\Form1.cs [Projeto]",
-              "RelativeToolTip": "carrossel\\Form1.cs [Projeto]",
+              "ToolTip": "C:\\Users\\Aluno_Manha\\source\\repos\\Carousel\\carrossel\\Form1.cs [Projeto]*",
+              "RelativeToolTip": "carrossel\\Form1.cs [Projeto]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-30T11:55:44.476Z",
               "EditorCaption": " [Projeto]"
@@ -116,8 +116,7 @@
               "RelativeToolTip": "carrossel\\Banners.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAYwAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-30T13:06:59.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-30T13:06:59.282Z"
             }
           ]
         },
